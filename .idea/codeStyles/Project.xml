@@ -1,0 +1,96 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+    <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+    <JavaCodeStyleSettings>
+      <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
+      <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
+      <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+      <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+        <value />
+      </option>
+      <option name="IMPORT_LAYOUT_TABLE">
+        <value>
+          <package name="android" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="androidx" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="com" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="junit" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="net" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="org" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="java" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="javax" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="true" />
+          <emptyLine />
+        </value>
+      </option>
+    </JavaCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+    </ScalaCodeStyleSettings>
+    <SqlCodeStyleSettings version="6">
+      <option name="KEYWORD_CASE" value="2" />
+      <option name="TYPE_CASE" value="2" />
+      <option name="CUSTOM_TYPE_CASE" value="0" />
+      <option name="BUILT_IN_CASE" value="2" />
+      <option name="ORIGINAL_CASE" value="true" />
+      <option name="QUERY_EL_LINE" value="101" />
+      <option name="QUERY_EL_COMMA" value="1" />
+      <option name="SUBQUERY_OPENING" value="3" />
+      <option name="SUBQUERY_CONTENT" value="1" />
+      <option name="INSERT_OPENING" value="0" />
+      <option name="INSERT_TABLE_EL_LINE" value="101" />
+      <option name="INSERT_VALUES_EL_LINE" value="101" />
+      <option name="INSERT_EL_COMMA" value="1" />
+      <option name="SET_EL_LINE" value="101" />
+      <option name="SET_EL_WRAP" value="2" />
+      <option name="SET_EL_COMMA" value="1" />
+      <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+      <option name="SELECT_EL_LINE" value="101" />
+      <option name="SELECT_EL_COMMA" value="1" />
+      <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
+      <option name="SELECT_ALIGN_AS" value="false" />
+      <option name="FROM_EL_LINE" value="101" />
+      <option name="FROM_EL_WRAP" value="0" />
+      <option name="FROM_EL_COMMA" value="0" />
+      <option name="FROM_WRAP_JOIN_1" value="false" />
+      <option name="FROM_WRAP_JOIN_2" value="false" />
+      <option name="FROM_WRAP_ON" value="true" />
+      <option name="FROM_INDENT_JOIN" value="false" />
+      <option name="FROM_ONLY_JOIN_INDENT" value="1" />
+      <option name="FROM_PLACE_ON" value="11" />
+      <option name="WHERE_EL_LINE" value="101" />
+      <option name="WHERE_EL_WRAP" value="3" />
+      <option name="ORDER_EL_LINE" value="101" />
+      <option name="ORDER_EL_WRAP" value="2" />
+      <option name="ORDER_EL_COMMA" value="1" />
+      <option name="ORDER_ALIGN_ASC_DESC" value="true" />
+      <option name="TABLE_TYPES_ALIGN" value="false" />
+      <option name="TABLE_DEFAULTS_ALIGN" value="false" />
+      <option name="TABLE_NULLABILITIES_ALIGN" value="false" />
+      <option name="CONSTRAINT_WRAP_1" value="false" />
+      <option name="POST_OPT_WRAP_2" value="false" />
+      <option name="VIEW_INDENT_QUERY" value="true" />
+      <option name="ROUTINE_ARG_COMMA" value="1" />
+      <option name="ROUTINE_ARG_SPACE_WITHIN_PARENTHESES" value="true" />
+      <option name="ROUTINE_ARG_ALIGN_TYPES" value="true" />
+      <option name="CORTEGE_COMMA_1ST" value="true" />
+      <option name="CORTEGE_SPACE_BEFORE_COMMA" value="true" />
+      <option name="CORTEGE_SPACE_AFTER_COMMA" value="false" />
+    </SqlCodeStyleSettings>
+    <codeStyleSettings language="SQL">
+      <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
