@@ -16,7 +16,7 @@ class IfSwitch {
     println(message)
   }
 
-  def func2(): Unit ={
+  def func2(): Unit = {
     /** 結果
      * OK
      */
@@ -29,7 +29,7 @@ class IfSwitch {
     println(message)
   }
 
-  def func3(): Unit ={
+  def func3(): Unit = {
     /** 結果
      * OK
      */
@@ -38,20 +38,20 @@ class IfSwitch {
     println(message)
   }
 
-  def func4(): Unit ={
+  def func4(): Unit = {
     /** 結果
      * Other
      * name: match式
      */
     val n = 5
     n match {
-      case 1=> println(1)
-      case 2=> println(2)
-      case other=> println("Other")
+      case 1 => println(1)
+      case 2 => println(2)
+      case other => println("Other")
     }
   }
 
-  def func5(): Unit ={
+  def func5(): Unit = {
     /** 結果
      * Some(123)
      * None
@@ -63,7 +63,7 @@ class IfSwitch {
     println(maybeInt)
   }
 
-  def func6(): Unit ={
+  def func6(): Unit = {
     /**
      * 123
      * description: maybeNumがmatch式に渡され、match式内でnという名前に置き換わり評価される。評価された結果がnumに返却・格納される。SomeはOptionのCaseClass??よくわからない。
